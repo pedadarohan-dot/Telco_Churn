@@ -1,0 +1,122 @@
+# ============================================================
+#  Telco Churn Prediction — .gitignore
+#  Keep the repo clean. Keep it professional.
+# ============================================================
+
+# ---------------------------
+# Python
+# ---------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+sdist/
+develop-eggs/
+.installed.cfg
+lib/
+lib64/
+
+# ---------------------------
+# Virtual Environments
+# ---------------------------
+venv/
+env/
+ENV/
+.env
+.venv
+.ENV/
+pipenv/
+
+# ---------------------------
+# Jupyter Notebooks
+# ---------------------------
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ---------------------------
+# ML / Model Artifacts
+# ---------------------------
+# Uncomment below if you don't want to commit the model binary
+# *.pkl
+# *.joblib
+# *.h5
+# *.pt
+# *.onnx
+
+# ---------------------------
+# Data Files (large datasets)
+# ---------------------------
+# Uncomment if your CSVs are large — use Git LFS instead
+# *.csv
+# *.json
+# *.parquet
+
+# ---------------------------
+# IDE & Editors
+# ---------------------------
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# ---------------------------
+# OS
+# ---------------------------
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+desktop.ini
+
+# ---------------------------
+# Logs & Temp
+# ---------------------------
+*.log
+*.tmp
+*.temp
+logs/
+tmp/
+
+# ---------------------------
+# Environment Variables
+# ---------------------------
+.env
+.env.local
+.env.*.local
+secrets.json
+config.secret.*
+
+# ---------------------------
+# Coverage & Testing
+# ---------------------------
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+coverage.xml
+*.cover
+.pytest_cache/
+nosetests.xml
+test-results/
+
+# ---------------------------
+# Documentation builds
+# ---------------------------
+docs/_build/
+site/
