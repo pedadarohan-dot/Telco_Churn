@@ -504,8 +504,8 @@ Telco-Churn-Prediction/
 
 Built with 💻 + ☕ by **Rohan**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/yourusername)
+[![LinkedIn](https://www.linkedin.com/in/rohan-pedada-b6b250380/)
+[![GitHub](https://github.com/pedadarohan-dot)
 
 ---
 
