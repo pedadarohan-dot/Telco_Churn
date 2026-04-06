@@ -415,7 +415,7 @@ A **21% higher monthly charge** for churned customers. Price sensitivity is real
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/Telco-Churn-Prediction.git
+git clone https://github.com/pedadarohan-dot/Telco-Churn-Prediction.git
 cd Telco-Churn-Prediction
 ```
 
